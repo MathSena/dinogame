@@ -1,5 +1,5 @@
 # DinoGame 🚀
-Replicação do famoso jogo do dinossauro do Chrome feito para um projeto na Digital Inovation One
+Replicação do famoso jogo do dinossauro do Chrome feito para um projeto na Digital Innovation One
 
 <img src="https://uploads.jovemnerd.com.br/wp-content/uploads/2018/09/brasil-joga-dinossauro-chrome.jpg" alt="Brasil é um dos países que mais joga o dinossauro do Chrome" style="zoom: 25%;" />
 
